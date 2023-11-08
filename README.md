@@ -1,5 +1,3 @@
-![image](https://github.com/nivetharajaa/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/120543388/7f006b72-8960-4fc8-8973-510f3982874f)# OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS
-
 (Follow template provided in CPU Scheduling algorithms for sub divisions)
 
 ## AIM:
