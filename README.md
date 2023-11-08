@@ -1,5 +1,5 @@
-(Follow template provided in CPU Scheduling algorithms for sub divisions)
-
+# OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS 
+## FIRST IN FIRST OUT
 ## AIM:
 To write a C program to implement Page Replacement technique using FIFO.
 ## ALGORITHM:
